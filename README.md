@@ -10,4 +10,8 @@ A repository containing my personal Xcode themes for macOS light and dark mode. 
 ```
 3. Select the theme within Xcodes’ preferences.
 
-![](preview.gif)
+## Preview
+* **[light theme](previews/preview-light.png)**
+* **[dark theme](previews/preview-dark.png)**
+
+![](previews/preview.gif)
